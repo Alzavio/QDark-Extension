@@ -1,0 +1,19 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "name": "Quora Dark Theme",
+  "short_name": "Quora Dark",
+  "description": "Makes Quora Dark",
+  "version": "1.1.0",
+  "manifest_version": 2,
+        "content_scripts": [
+                        {
+"matches": [
+                "https://*.quora.com/*"
+            ],
+      "css" : ["my-style.css"]
+        }
+    ]
+    
+}
+
