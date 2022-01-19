@@ -1,2 +1,2 @@
 # Quora-Dark-Extension
-This project was bandoned circa 2016 and likely no longer works.
+This project was abandoned circa 2016 when I was in High School and likely no longer works. Feel free to fork.
